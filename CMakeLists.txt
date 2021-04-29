@@ -24,6 +24,6 @@ file(GLOB_RECURSE ALL_SRCS "src/*.cpp")
 
 
 # lidar slam and localize
-add_executable(main exec/main.cpp ${ALL_SRCS})
-target_link_libraries(main ${ALL_TARGET_LIBRARIES})
+add_executable(se_inter exec/main.cpp ${ALL_SRCS})
+target_link_libraries(se_inter ${ALL_TARGET_LIBRARIES})
 

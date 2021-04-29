@@ -10,6 +10,6 @@
 //
 
 namespace cmake_template {
-    const std::string WORK_SPACE_PATH = "/home/warren/Documents/CLionProj/SE_Interpo";
+    const std::string WORK_SPACE_PATH = "/home/qzj/code/catkin/catkin_lidar_slam/src/SE_Interpo";
 }
 #endif

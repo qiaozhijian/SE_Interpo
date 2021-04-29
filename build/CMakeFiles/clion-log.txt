@@ -1,7 +1,0 @@
-/home/warren/Software/clion-2020.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/warren/Documents/CLionProj/SE_Interpo
-start make cmake_template
-PROJECT_BINARY_DIR /home/warren/Documents/CLionProj/SE_Interpo/build
-/usr/include/eigen3
--- Configuring done
--- Generating done
--- Build files have been written to: /home/warren/Documents/CLionProj/SE_Interpo/build
